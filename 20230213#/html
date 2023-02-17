@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+    <title></title>
+<meta property="og:url" content="https://www.tossinsu.org">
+<meta property="og:title" content="토스인슈어런스">
+<meta name="twitter:title" content="토스인슈어런스">
+<meta name="keywords" content="토스인슈어런스, 문화재단, 재단, 사회공헌, 봉사활동, 기부">
+<meta name="description" content="보험을 통해 문화를 만들고, 인재를 키우고, 마음을 나눕니다.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="og:image" property="og:image" content="https://sgimage.netmarble.com/images/netmarble/foundation/20210202/1612254550958/renew_foundation_meta_img.jpg">
+<meta name="twitter:image" content="https://sgimage.netmarble.com/images/netmarble/foundation/20210202/1612254550958/renew_foundation_meta_img.jpg">
+<meta property="og:description" content="보험을 통해 문화를 만들고, 인재를 키우고, 마음을 나눕니다.">
+<meta name="twitter:description" content="보험을 통해 문화를 만들고, 인재를 키우고, 마음을 나눕니다.">  <meta name="viewport" content="width=800, user-scalable=no">
+  <meta name="format-detection" content="telephone: no, email: no">
+  <meta name="naver-site-verification" content="7a293ae869fa6e828b9779d90dc8992be4e09d10" />
+  <link rel="shortcut icon" href="https://sgimage.netmarble.com/favicon/foundation/favicon.ico">
+  <link rel="apple-touch-icon" href="https://sgimage.netmarble.com/favicon/foundation/favicon-120x120.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://sgimage.netmarble.com/favicon/foundation/favicon-180x180.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&amp;display=auto">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&amp;display=auto">
+  <link rel="stylesheet" href="https://sgimage.netmarble.com/font/css/fontfamily-1.0.6.css?v=20200622" media="none" onload="this.media='all'">
+  <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7270efbb697bd9c6c086dd2d072d8d05"></script>
+
+  <script>
+    var LANG = "ko";     // 기본 언어
+    var COUNTRY = "";
+    var CMS_DOMAIN = "https://cms-api.netmarble.com";
+    var HOST_PREFIX = "";
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-92C91QQ9C1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-92C91QQ9C1');
+    //gtag('config', 'UA-183227679-9');
+  </script>
+</head>
+<body>
+
+<noscript data-n-head="1" data-hid="gtm-noscript" data-pbody="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7JWVDB&" height="0" width="0" style="display:none;visibility:hidden" title="gtm"></iframe></noscript><div id="__nm"></div><script>window.__NM__={config:{},staticAssetsBase:void 0}</script>
+<script src="https://sgimage.netmarble.com/mobile/game/foundation/brand/v2/abe41c6.js"></script><script src="https://sgimage.netmarble.com/mobile/game/foundation/brand/v2/d636274.js"></script><script src="https://sgimage.netmarble.com/mobile/game/foundation/brand/v2/42cb687.js"></script><script src="https://sgimage.netmarble.com/mobile/game/foundation/brand/v2/ba8b632.js"></script>
+
+</body>
+</html>

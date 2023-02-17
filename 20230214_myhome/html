@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>::: MY HOME :::</title>
+    <link rel="preconnect" href="https://fonts.googleapis"
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+    <header id="hd">
+        <div classs="top"><!-- 100% -->
+            <div class="subWarp"><!-- 980px -->
+               <div classs="submenu"> 
+                  <ul class="clearfix"> 
+                      <li><a href="#">login</a></li>
+                      <li><a href="#">join</a></li> 
+                      <li><a href="#">Contact us</a></li> 
+                      <li><a href="#">English</a></li>
+                 </ul>
+               </div>
+            </div>   
+        </div>
+    </header> 
+     
+    
+    <hi classs="logo"> 
+        <a href="#"><img src="img/logo.jpg" alt="한국직업전문학교">
+    </h1>
+
+    <div class="bottom"<! -- 100% --></div></div>
+      
+

@@ -1,0 +1,79 @@
+@charset "utf-8" 
+
+/* init */ 
+*{margin: 0;padding: 0;}
+.clearfix:after{
+      content:"":display: block;clear: both;  
+
+}
+li{list-style: none;} 
+a:link,a:visited
+
+/* header */ 
+#menu.menu li 
+#hd{ 
+    width: 1000px; 
+    background-color: skyblue;
+    margin: auto;
+    text-align: center; 
+}
+#hd h1{ 
+    background-color: skyblue; 
+    margin: o auto;
+    text-align: center;
+
+} 
+#hd h1 a{
+    background-color: blue;
+    width:100px;
+    display: block 
+    /* text-align: initial; */ 
+
+} 
+
+.menu li{ 
+    float: : left;
+    width: 20%; 
+
+}
+.menu li a{
+    text-align: center;
+    display: block;
+    line-height: 50px;
+    border-right: 1px solid #000
+}
+/*.menu li.first{boder-left:2px} 
+/*.menu li:last-child(2n+1) {boder-right:2px solid #000} */ 
+/*.menu li:last-child(2n+1) {boder-right:2px solid #000} */
+.menu li:nth-child(2n+1) {background-color: skyblue;}  
+
+/* .menu li:hover{ 
+    background-color:aqua; 
+} /* 
+.menu li a{ 
+    text-lisign:center; 
+    dispaly: block; 
+    line-height: 50px; 
+
+} 
+menu li a:hover 
+    background-colror: violet; 
+} 
+</style> 
+</head> 
+<body> 
+    <header id="hd"> 
+    <hi class="logo"><a href="#">logo</a></h1> 
+    <nav class="menu" id="menu"> 
+    <ul class="clearfix"> 
+        <li class="first"><a href="#">menu1</a></li>
+        <li class="first"><a href="#">menu2</a></li> 
+        <li class="first"><a href="#">menu3</a></li>  
+        <li class="first"><a href="#">menu4</a></li>
+        <li class="first"><a href="#">menu5</a></li>  
+     </ui> 
+     </nav> 
+     </header> 
+</body> 
+</html> 
+        

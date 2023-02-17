@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* init */ 
+*{margin-top: 0: 
+ margin-right: 0;
+ margin-left} 
+ li{list-style:none;}
+ .han::after{
+    content: "";display: block;clear:both;
+ }
+  
+ /* body */ 
+div.warp{ 
+    width: 1000px; 
+    margin: 0 auto; 
+    background-color: skyblue;
+
+}  
+div.warp> ul > li{
+    background-color: pink;
+    width: 100px;
+    float: left; 
+    text-align: center;
+    line-height: 50px; 
+
+} 
+.m10{margin-left: 10px;}
+.m20{margin-left: 20px;}
+
+div.warp ul li{} 
+.warp li{} 
+.menu li{} 
+
+/* visual */ 
+
+.visual{
+
+
+}
